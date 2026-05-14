@@ -1,7 +1,7 @@
 # core-assets
 Building new assets for HS community
 # 🏛️ Open Assets
-### The Open-Source Infrastructure for European Startups.
+### The Open-Source Infrastructure for Startups.
 
 Welcome to the central intelligence hub. This repository is a shared operating system designed to eliminate fragmentation and provide high-quality, open-source resources for the startup ecosystem.
 
